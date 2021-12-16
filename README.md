@@ -1,4 +1,4 @@
-Attention: This repo is archieved, please move to [go-internals-v2](https://github.com/hitzhangjie/go-internals-v2]
+Attention: This repo is archieved, please move to [go-internals-v2](https://github.com/hitzhangjie/go-internals-v2)
 
 # 项目介绍
 
