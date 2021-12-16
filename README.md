@@ -1,3 +1,5 @@
+Attention: This repo is archieved, please move to [go-internals-v2](https://github.com/hitzhangjie/go-internals-v2]
+
 # 项目介绍
 
 **go-internals** 包含了golang设计实现的一系列文章，内容覆盖范围包括编译器、链接器、调试器、运行时、垃圾回收器、内存分配器、goroutine、chan、panic/recover、defer、异步抢占、select-case等等的内部细节，并且会持续完善、更新，致力于将其沉淀成一个可供新老gophers查询的知识库。
